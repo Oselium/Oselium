@@ -1,4 +1,4 @@
-### 👋 Hi there, visit my [personal page](https://oselium.github.io) for my resume
+### 👋 Hi there, visit my [personal page](https://oselium.github.io) to look at my resume
 
 - 🎓 CS Student at University of Turin.
 - 📘 Learning C++, React, Python and dillydaddling with ML.
