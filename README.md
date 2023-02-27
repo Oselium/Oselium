@@ -1,6 +1,6 @@
 ### 👋 Hi there, visit my [personal page](https://oselium.github.io) to look at my resume
 
-- 🎓 CS Student at University of Turin.
+- 🎓 Master's degree in Cloud Computing at University of Turin.
 - 🏬 Working as DevOps Engineer in Turin.
 - 📘 Learning C++, Ansible, Python.
 - :trollface: I use Arch BTW
